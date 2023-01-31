@@ -73,3 +73,10 @@ function deleteTodoTag(id, tag) {}
  * @returns {void} 
  */
 function clearTodoTags(id) {}
+
+
+/**
+ * @typedef {Object} 아이템 객체
+ * @property {string} property1 - 특성 (필수)
+ * @property {string} property2 - 특성 (선택)
+ */
